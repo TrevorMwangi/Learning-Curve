@@ -1,7 +1,7 @@
 import pywhatkit
 
 try:
-    pywhatkit.sendwhatmsg("+254115251183", "Hello BASTARD",1, 0)
+    pywhatkit.sendwhatmsg("+254797180740", "Yooh rada",1, 0)
     print("Sent successfuly!")
 
 except:
