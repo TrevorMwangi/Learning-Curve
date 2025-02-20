@@ -13,4 +13,4 @@ def decimal_to_roman(decimal):
 
 decimal_number = int(input("Enter decimal number: "))
 roman_number = decimal_to_roman(decimal_number)
-print(f"Decimal number {decimal_number} is {roman_number} in Roman numerals.")
+print(f"The number {decimal_number} is {roman_number} in Roman numerals.")
